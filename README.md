@@ -1,1 +1,1 @@
-This is an web3 landing page 
+This is a web3 landing page 
